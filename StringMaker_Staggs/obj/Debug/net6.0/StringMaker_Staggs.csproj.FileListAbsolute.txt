@@ -1,0 +1,14 @@
+F:\School\Csh\StringMaker_Staggs-Solution\StringMaker_Staggs\bin\Debug\net6.0\StringMaker_Staggs.exe
+F:\School\Csh\StringMaker_Staggs-Solution\StringMaker_Staggs\bin\Debug\net6.0\StringMaker_Staggs.deps.json
+F:\School\Csh\StringMaker_Staggs-Solution\StringMaker_Staggs\bin\Debug\net6.0\StringMaker_Staggs.runtimeconfig.json
+F:\School\Csh\StringMaker_Staggs-Solution\StringMaker_Staggs\bin\Debug\net6.0\StringMaker_Staggs.dll
+F:\School\Csh\StringMaker_Staggs-Solution\StringMaker_Staggs\bin\Debug\net6.0\StringMaker_Staggs.pdb
+F:\School\Csh\StringMaker_Staggs-Solution\StringMaker_Staggs\obj\Debug\net6.0\StringMaker_Staggs.GeneratedMSBuildEditorConfig.editorconfig
+F:\School\Csh\StringMaker_Staggs-Solution\StringMaker_Staggs\obj\Debug\net6.0\StringMaker_Staggs.AssemblyInfoInputs.cache
+F:\School\Csh\StringMaker_Staggs-Solution\StringMaker_Staggs\obj\Debug\net6.0\StringMaker_Staggs.AssemblyInfo.cs
+F:\School\Csh\StringMaker_Staggs-Solution\StringMaker_Staggs\obj\Debug\net6.0\StringMaker_Staggs.csproj.CoreCompileInputs.cache
+F:\School\Csh\StringMaker_Staggs-Solution\StringMaker_Staggs\obj\Debug\net6.0\StringMaker_Staggs.dll
+F:\School\Csh\StringMaker_Staggs-Solution\StringMaker_Staggs\obj\Debug\net6.0\refint\StringMaker_Staggs.dll
+F:\School\Csh\StringMaker_Staggs-Solution\StringMaker_Staggs\obj\Debug\net6.0\StringMaker_Staggs.pdb
+F:\School\Csh\StringMaker_Staggs-Solution\StringMaker_Staggs\obj\Debug\net6.0\StringMaker_Staggs.genruntimeconfig.cache
+F:\School\Csh\StringMaker_Staggs-Solution\StringMaker_Staggs\obj\Debug\net6.0\ref\StringMaker_Staggs.dll
